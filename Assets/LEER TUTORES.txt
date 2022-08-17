@@ -1,0 +1,11 @@
+
+INTRUCCIONES:
+
+-"Play" para jugar
+-"Exit" para salir
+-Alternar Pausa y resumir = "P"/"Escape"
+-MOVIMIENTO JUGADOR = "WASD O FELCHAS"
+-DISPARAR = "CLICK DERECHO"
+
+PD: la barra de vida es funcional, pero todavia no hay metodos que la afecten 
+que hayan sido implementados por ahora.
