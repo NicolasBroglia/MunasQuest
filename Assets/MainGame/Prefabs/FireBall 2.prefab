@@ -96,7 +96,7 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 4
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &-2918124635565991578
 Rigidbody:
@@ -109,7 +109,7 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -129,7 +129,7 @@ MonoBehaviour:
   explosionEffect: {fileID: 1714681308540598, guid: 5cbc537826220e04592d5a41a0dd985f, type: 3}
   delay: 1.5
   explosionForce: 3
-  damage: 10
+  damage: 100
 --- !u!1001 &714888921188427890
 PrefabInstance:
   m_ObjectHideFlags: 0
