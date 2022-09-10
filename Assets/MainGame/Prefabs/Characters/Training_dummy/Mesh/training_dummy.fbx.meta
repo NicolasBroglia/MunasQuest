@@ -8,7 +8,7 @@ ModelImporter:
     second: ARM_training_dummy|Action
   - first:
       74: -1225593685001763387
-    second: died
+    second: Hit
   - first:
       74: 398459744006993247
     second: ARM_training_dummy|idle
@@ -49,7 +49,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: died
+      name: Hit
       takeName: ARM_training_dummy|died
       internalID: 0
       firstFrame: 0
